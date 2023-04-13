@@ -1,0 +1,3 @@
+C:/Users/loren/Desktop/iscrizione-2023-LorenzoConforto/cmake-build-debug/CMakeFiles/iscrizione_2023_LorenzoConforto.dir
+C:/Users/loren/Desktop/iscrizione-2023-LorenzoConforto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/loren/Desktop/iscrizione-2023-LorenzoConforto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
