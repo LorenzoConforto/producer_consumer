@@ -1,0 +1,17 @@
+# ninja log v5
+4	2527	7068793039296978	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+2539	3553	7068793047061657	producer_consumer.exe	6e18e03d012aaab
+107	4676	7068794038717699	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+4693	5709	7068794048858108	producer_consumer.exe	6e18e03d012aaab
+19	2509	7068794489710445	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+2514	3209	7068794496818674	producer_consumer.exe	6e18e03d012aaab
+655	3761	7068794885216742	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+3771	7787	7068794917876360	producer_consumer.exe	6e18e03d012aaab
+29	1769	7068800815624046	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+1773	2353	7068800820898818	producer_consumer.exe	6e18e03d012aaab
+103	12756	7068801374834857	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+12764	14048	7068801388301794	producer_consumer.exe	6e18e03d012aaab
+24	1899	7068801578352300	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+1903	2508	7068801584384655	producer_consumer.exe	6e18e03d012aaab
+79	7748	7068806119809258	CMakeFiles/producer_consumer.dir/main.cpp.obj	a2bff3a2bd509b74
+7752	8420	7068806126745273	producer_consumer.exe	6e18e03d012aaab
