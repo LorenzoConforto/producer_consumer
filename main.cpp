@@ -40,6 +40,7 @@ int main() {
                         temp = buffer[j];
                         cout << "Il thread " << omp_get_thread_num() << " ha letto " << temp << endl;
                     }
+
                     j++;
                     if(j == N)
                         j = 0;
